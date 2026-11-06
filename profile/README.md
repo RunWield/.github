@@ -1,8 +1,6 @@
 <a href="https://runwield.dev">
-  <img src="https://raw.githubusercontent.com/RunWield/.github/main/profile/assets/banner.png" width="100%" alt="RunWield — a dark slate banner with mint and blue review gates">
+  <img src="https://raw.githubusercontent.com/RunWield/.github/main/profile/assets/logo.png" width="72" alt="RunWield — visit our website">
 </a>
-
-<img src="https://raw.githubusercontent.com/RunWield/.github/main/profile/assets/logo.png" width="72" alt="RunWield logo">
 
 # Plan with AI. Ship with engineering control.
 

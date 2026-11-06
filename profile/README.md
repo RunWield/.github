@@ -1,7 +1,3 @@
-<a href="https://runwield.dev">
-  <img src="https://raw.githubusercontent.com/RunWield/.github/main/profile/assets/logo.png" width="72" alt="RunWield — visit our website">
-</a>
-
 # Plan with AI. Ship with engineering control.
 
 We build tools that help developers turn ideas into reviewed plans, make code changes, and preserve what they learn.
